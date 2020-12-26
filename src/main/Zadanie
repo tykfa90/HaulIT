@@ -1,0 +1,12 @@
+Program powinien posiadaćprzynajmniejtakiefunkcjonalności, jak:
+    -dodawanie elementu do bazy,
+    -wyszukiwanie elementu,
+    -usuwanie elementu
+    -przechowywanie utworzonych elementów (obiektów)w pamięci
+
+Pamięć: RAM: zwykła tablica lub wybrana kolekcja (klasa języka Java, np. ArrayList).
+
+Dodatkowe wymagania:
+    -język programowania: Java,
+    -interfejs użytkownika: konsola lub system okienkowy,
+    -dokumentacja projektu: komentarze w kodzie źródłowym oraz graficzny schemat (diagram klas),
